@@ -1,9 +1,5 @@
 
 # Minitalk
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/covers/cover-minitalk-bonus.png" alt="Minitalk Cover">
-</p>
-<img src="https://img.shields.io/badge/Score-125%2F125-brightgreen" alt="Score Badge">
 
 
 *A signal-based communication program that transmits messages bit by bit.*
